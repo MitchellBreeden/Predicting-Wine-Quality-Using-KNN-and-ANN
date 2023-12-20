@@ -11,13 +11,13 @@
 Objective: To predict wine quality using K-Nearest Neighbor (KNN) and Artificial Neural Networks (ANN) based on physiochemical properties.
 
 ## Data Sources
-- Dataset including various physiochemical properties of wine.
+- `winequality-red.csv`: Contains physiochemical properties of red wine.
+- `winequality-white.csv`: Contains physiochemical properties of white wine.
 
 ## Methodology
-- **Tools Used:** [List specific tools]
+- **Tools Used:** Python, Jupyter Notebook, Pandas, NumPy, Scikit-Learn (skLearn), Matplotlib, Keras, TensorFlow
 - **Features:** Analysis of wine properties such as acidity, sugar level, etc.
 - **Approach:** Implementing KNN and ANN for predictive modeling.
-- **Notes:** [Additional methodology notes]
 
 ## Results and Conclusions
 - Assessment of model accuracy in wine quality prediction.
